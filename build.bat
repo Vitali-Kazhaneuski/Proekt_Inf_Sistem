@@ -1,1 +1,1 @@
-javac -d .\out .\src\org\bsuir\laba8\StringList.java .\src\org\bsuir\laba8\LimitedStringList.java .\src\org\bsuir\laba8\App.java
+javac -d .\out .\src\org\bsuir\laba8\StringList.java .\src\org\bsuir\laba8\LimitedStringList.java .\src\org\bsuir\laba8\App.java 
